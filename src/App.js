@@ -14,7 +14,7 @@ const MainTitleText = styled.p`
 
 function App(props) {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/mini-blog/">
       <MainTitleText>likeyellowand의 미니 블로그</MainTitleText>
       <Routes>
         <Route index element={<MainPage />} />
