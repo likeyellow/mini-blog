@@ -4,6 +4,8 @@
 
 # 미니 블로그 화면 예시
 > [likeyellowand의 미니 블로그](https://likeyellow.github.io/mini-blog/)
-![2023-06-09 19 48 39](https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613)
+> ![2023-06-09 19 48 39](https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+# 사용기술 스택
+> ![](./profile-3d-contrib/profile-night-rainbow.svg)
