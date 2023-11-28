@@ -6,8 +6,8 @@
 > 백엔드와 DB연동이 없으므로 실제와 같이 동작하지 않습니다.
 
 
-## [바로가기] 미니 블로그 화면 예시
-> # [likeyellowand의 미니 블로그](https://likeyellow.github.io/mini-blog/)
+## 미니 블로그 화면 예시
+> # [바로가기] [likeyellowand의 미니 블로그](https://likeyellow.github.io/mini-blog/)
 > <div><img src="https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613" width="500" /></div>
 
 
