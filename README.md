@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20likeyellow's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
   
-## React를 사용해 구현한 연습용 미니 블로그 입니다.
+React를 사용해 구현한 연습용 미니 블로그 입니다.
 {: .notice--info}
 백엔드와 DB연동이 없으므로 실제와 같이 동작하지 않습니다.
 
