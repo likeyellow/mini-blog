@@ -7,7 +7,7 @@
 
 
 ## 미니 블로그 화면 예시
-> [likeyellowand의 미니 블로그](https://likeyellow.github.io/mini-blog/)
+> # [likeyellowand의 미니 블로그](https://likeyellow.github.io/mini-blog/)
 > <div><img src="https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613" width="500" /></div>
 
 
