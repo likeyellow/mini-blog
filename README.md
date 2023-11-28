@@ -8,6 +8,7 @@
 
 ## 미니 블로그 화면 예시 
 > #### [미니 블로그 바로가기](https://likeyellow.github.io/mini-blog/) https://likeyellow.github.io/mini-blog/
+<br />
 > <div><img src="https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613" width="500" /></div>
 
 
