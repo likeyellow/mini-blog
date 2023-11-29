@@ -8,10 +8,10 @@
 
 
 ## • 미니 블로그 화면 예시
-<div>
+> - 메인: 글 리스트 보여주기
   <img src="https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613" width="500" />
+> - 새글 입력
   <img src="https://github.com/likeyellow/mini-blog/assets/38120188/fefba85a-ca66-4025-857f-286af65f5b9f" width="500" />  
-</div>
 
 
 ## • 사용기술 스택 💻
