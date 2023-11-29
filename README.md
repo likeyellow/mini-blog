@@ -9,10 +9,12 @@
 
 
 ## • 미니 블로그 화면 예시
-> - 메인: 글 리스트 보여주기
+> - 메인 화면
+>  ▼ 글 리스트 보여주기
   <div><img src="https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613" width="500" /></div>
   
-> - 새글 입력하기
+> - 새글 입력 화면
+>  ▼ 새 글을 입력할 수 있습니다.
   <div><img src="https://github.com/likeyellow/mini-blog/assets/38120188/fefba85a-ca66-4025-857f-286af65f5b9f" width="500" /></div>  
 
 
