@@ -10,7 +10,8 @@
 ## • 미니 블로그 화면 예시
 > - 메인: 글 리스트 보여주기
   <div><img src="https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613" width="500" /></div>
-> - 새글 입력
+  
+> - 메인: 글 리스트 보여주기
   <div><img src="https://github.com/likeyellow/mini-blog/assets/38120188/fefba85a-ca66-4025-857f-286af65f5b9f" width="500" /></div>  
 
 
