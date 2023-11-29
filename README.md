@@ -5,7 +5,7 @@
 ## • React Mini Blog
 > - React를 사용해 구현한 연습용 미니 블로그 입니다.
 > - 백엔드와 DB연동이 없으므로 실제와 같이 동작하지 않습니다.
-> - [ [미니 블로그 바로가기] 🔗 ](https://likeyellow.github.io/mini-blog/) https://likeyellow.github.io/mini-blog/ <img width="46" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png"> 
+> - [ [미니 블로그 바로가기]  🔗](https://likeyellow.github.io/mini-blog/) https://likeyellow.github.io/mini-blog/ <img width="46" alt="star3" src="https://user-images.githubusercontent.com/78655692/151471989-9e21d7a8-a7b6-44b0-b598-2bb204b56b00.png"> 
 
 
 ## • 미니 블로그 화면 예시
