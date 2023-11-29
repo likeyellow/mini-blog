@@ -8,7 +8,8 @@
 
 
 ## • 미니 블로그 화면 예시
-<div><img src="https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613" width="500" /><img src="https://github.com/likeyellow/mini-blog/assets/38120188/d4afb83b-6216-4f0a-9f94-1709022f0c0f" width="500" /></div>
+<div><img src="https://github.com/likeyellow/mini-blog/assets/38120188/89c197e7-43eb-42d9-9332-e6471b379613" width="500" />
+  <img src="[https://github.com/likeyellow/mini-blog/assets/38120188/d4afb83b-6216-4f0a-9f94-1709022f0c0f](https://github.com/likeyellow/mini-blog/assets/38120188/7e9de64b-7458-4a2c-8a9f-df769be6320d)https://github.com/likeyellow/mini-blog/assets/38120188/7e9de64b-7458-4a2c-8a9f-df769be6320d" width="500" /></div>
 
 
 ## • 사용기술 스택 💻
